@@ -1,0 +1,11 @@
+.showImg{
+    visibility: visible;
+}
+
+.hideImg{
+    visibility: hidden;
+}
+
+.galleryContainer{
+    display: block;
+}
